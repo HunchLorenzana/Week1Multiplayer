@@ -1,7 +1,7 @@
 using UnityEngine;
 using Unity.Netcode;
 using TMPro;
-using Unity.Netcode.Transport.UTP;
+using Unity.Netcode.Transports.UTP;
 
 public class MultiplayerMenu : NetworkBehaviour
 {
